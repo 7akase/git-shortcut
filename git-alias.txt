@@ -1,0 +1,10 @@
+[alias]
+  st=status
+  br=branch
+  g1=log --graph --oneline --decorate=full
+  l1=log --oneline
+  ss=stash save
+  po=push origin
+  fo=fetch origin
+  c0=commit --allow-empty
+  ca=commit --amend
